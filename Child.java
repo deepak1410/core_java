@@ -67,14 +67,16 @@ public class Child extends Parent{
 		Parent parent1 = new Parent();
 		//parent1.chat(); // This will not work 
 		
+		/******** Trick-5 ********/
+		/* If the type is Parent class but object is child class then it will be able to call only parent class methods
+		 * To allow this to call child class method downcasting is required */
 		Parent parent2 = new Child();
 		// parent2.chat();  // Even this will not work
 		((Child) parent2).chat(); // This will work
 		
-		/******** Trick-5 ********/
-		/* Irrespective of the type of object in case of non static methid
-		 * The method selection is from the class of the object 
-		 * Both the code below print Child Send */
+		/******** Trick-6 ********/
+		/* Irrespective of the type of object in case of non static method, The method selection is always from the class of the object */
+		/* Both the code below print Child Send */
 		Parent child1 = new Child();
 		Parent child2 = (Parent)new Child();
 		child1.send();
