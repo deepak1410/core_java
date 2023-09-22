@@ -5,6 +5,7 @@
 /Users/dkumar/personal_projects/core_java/core_java/src/main/java/com/dpk/collection/ArrayListOperations.java
 /Users/dkumar/personal_projects/core_java/core_java/src/main/java/com/dpk/multithreading/AtomicIntegerExample.java
 /Users/dkumar/personal_projects/core_java/core_java/src/main/java/com/dpk/lambda/Java8Function.java
+/Users/dkumar/personal_projects/core_java/core_java/src/main/java/com/dpk/java21/VirtualThreadTest.java
 /Users/dkumar/personal_projects/core_java/core_java/src/main/java/com/dpk/java8/stream/StreamAPITest.java
 /Users/dkumar/personal_projects/core_java/core_java/src/main/java/com/dpk/multithreading/collections/blockingqueue/PriorityBlockingQueueManager.java
 /Users/dkumar/personal_projects/core_java/core_java/src/main/java/com/dpk/collection/EmployeeNameComparator.java
@@ -40,6 +41,7 @@
 /Users/dkumar/personal_projects/core_java/core_java/src/main/java/com/dpk/ds/StackAndQueue.java
 /Users/dkumar/personal_projects/core_java/core_java/src/main/java/com/dpk/Main.java
 /Users/dkumar/personal_projects/core_java/core_java/src/main/java/com/dpk/java8/java8inactionbook/TradersTransactionsManager.java
+/Users/dkumar/personal_projects/core_java/core_java/src/main/java/com/dpk/java21/Java21FeaturesTest.java
 /Users/dkumar/personal_projects/core_java/core_java/src/main/java/com/dpk/multithreading/executors/Task.java
 /Users/dkumar/personal_projects/core_java/core_java/src/main/java/com/dpk/common/MostFrequentSubstring.java
 /Users/dkumar/personal_projects/core_java/core_java/src/main/java/com/dpk/ds/queue/Queue.java

@@ -15,7 +15,9 @@ com/dpk/dto/Employee.class
 com/dpk/java8/java8inactionbook/Stream2CollectingData.class
 com/dpk/java8/java8inactionbook/InputValidation.class
 com/dpk/dp/state/Main.class
+com/dpk/java21/VirtualThreadTest.class
 com/dpk/multithreading/ProducerConsumerManager.class
+com/dpk/java21/Java21FeaturesTest.class
 com/dpk/java8/java8inactionbook/ValidationStrategy.class
 com/dpk/java8/functional/Employee.class
 com/dpk/multithreading/collections/blockingqueue/ProducerWorker.class
@@ -57,6 +59,7 @@ com/dpk/multithreading/collections/blockingqueue/PriorityBlockingQueueManager.cl
 com/dpk/ds/linkedlist/SinglyLinkedList.class
 com/dpk/ds/StackAndQueue.class
 com/dpk/common/MostFrequentSubstring.class
+com/dpk/java21/Java21FeaturesTest$Numbers.class
 com/dpk/dp/state/GreenSignalState.class
 com/dpk/java8/java8inactionbook/model/Dish$Type.class
 com/dpk/java8/functional/Cat.class
